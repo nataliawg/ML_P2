@@ -1,0 +1,3 @@
+modelo,f1_macro_test
+MLP (Dropout->BN),0.5539
+XGBoost,0.4926

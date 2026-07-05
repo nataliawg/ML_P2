@@ -1,0 +1,4 @@
+escenario,f1_macro,f1_std
+"CV (5-fold, GroupKFold por recording_id) sobre train completo",0.3574,0.0243
+Holdout: train completo -> test completo,0.3888,
+Holdout: solo is_tp==1 (train y test),0.5888,

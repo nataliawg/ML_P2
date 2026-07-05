@@ -1,0 +1,3 @@
+modelo,tiempo_inferencia_batch_s,tiempo_por_muestra_ms
+MLP,0.00168,0.0035
+XGBoost,0.00559,0.0117

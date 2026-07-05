@@ -1,0 +1,6 @@
+capa,neuronas,activacion
+Entrada,64,-
+Oculta 1,256,ReLU (orden: dropout_first)
+Oculta 2,128,ReLU (orden: dropout_first)
+Oculta 3,64,ReLU (orden: dropout_first)
+Salida,5,Softmax (vía CrossEntropyLoss)

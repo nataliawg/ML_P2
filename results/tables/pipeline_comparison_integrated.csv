@@ -1,0 +1,5 @@
+pipeline,modelo,f1_test_full,f1_test_is_tp1
+Raw 64-dim MFCCs,MLP (Dropout->BN),0.5539,0.6074
+Raw 64-dim MFCCs,XGBoost,0.4926,0.5743
+UMAP(15)+GMM(10),MLP_integrated,0.392,0.5381
+UMAP(15)+GMM(10),DecisionTree(depth=10),0.3199,0.32

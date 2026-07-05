@@ -1,0 +1,3 @@
+metodo,paradigma,n_clusters,silhouette
+GMM,probabilístico,2,0.19504255935678905
+DBSCAN,densidad,2,0.5898928250117744
